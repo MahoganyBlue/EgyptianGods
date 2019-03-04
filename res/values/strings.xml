@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EgyptianGods</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_name">gods</string>
+    <string name="amum">amum</string>
+    <string name="anubis">anubis</string>
+    <string name="atum">atum</string>
+    <string name="hathor">hathor</string>
+    <string name="isis">isis</string>
+    <string name="maat">maat</string>
+    <string name="min">min</string>
+    <string name="nephthys">nephthys</string>
+    <string name="ra">ra</string>
+    <string name="sekhmet">sekhmet</string>
+    <string name="amum_url">http://https://en.wikipedia.org/wiki/Amun</string>
+    <string name="anubis_url">https://en.wikipedia.org/wiki/Anubis</string>
+    <string name="atum_url">https://en.wikipedia.org/wiki/Atum</string>
+    <string name="hathor_url">https://en.wikipedia.org/wiki/Hathor</string>
+    <string name="isis_url">https://en.wikipedia.org/wiki/Isis</string>
+    <string name="maat_url">https://en.wikipedia.org/wiki/Maat</string>
+    <string name="min_url">https://en.wikipedia.org/wiki/Min_(god)</string>
+    <string name="nephthys_url">https://en.wikipedia.org/wiki/Nephthys</string>
+    <string name="ra_url">https://en.wikipedia.org/wiki/Ra</string>
+    <string name="sekhmet_url">https://en.wikipedia.org/wiki/Sekhmet</string>
+
+</resources>
